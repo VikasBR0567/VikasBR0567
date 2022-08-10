@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Iam Vikas.
+
+Iam a Associate Engineer at Sankhyaa Info Solutions Pvt Ltd.
+
 <!--
 **VikasBR0567/VikasBR0567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
